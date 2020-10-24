@@ -8,7 +8,7 @@
     <hr>
     <div align="center">
          <table border="0">
-            <form action="{{ route('register.kinou'}}" method="get">
+            <form action="" method="get">
              <tr>
                 <th>
                    E-Mail Address

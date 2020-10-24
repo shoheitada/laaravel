@@ -19,4 +19,6 @@ Route::get('/', function () {
 Route::get('/' , 'LoginController@Login');
 Route::get('/view/Login' , 'LoginController@Login');
 Route::get('/view/Register' ,'Registercontroller@Register');
+?>
+<!--変更したファイルです　10/24-->
 

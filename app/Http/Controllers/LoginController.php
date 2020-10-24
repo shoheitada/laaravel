@@ -12,3 +12,4 @@ class LoginController extends Controller
     }
 }
 ?>
+<!--変更したファイルです　10/24-->
